@@ -1,4 +1,5 @@
-out/.nofile
+out/*
+!out/.gitkeep 
 .idea
 .vscode
 Videos.txt
