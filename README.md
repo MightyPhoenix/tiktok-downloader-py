@@ -14,3 +14,11 @@
 ### 5. Then Click on `Download Data` tab you'll see your data request. The `pending` button will turn to `Download` within 2 days. Then you can go ahead and Download the zipped data and extract it. 
 ### After Extracting we only need the `Videos.txt` file in `Videos/Videos.txt`
 ![5](/assets/img/5.jpg "5")
+## Part Two : `The Script`
+### 1. Clone this repository and keep the `Videos.txt` file in the same folder the script is!
+### 2. Then on your terminal / cmd type `python script.py`
+![11](/assets/img/11.png "11")
+### 3.
+### 4.
+### 5.
+### 6.
